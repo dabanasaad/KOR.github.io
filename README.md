@@ -1,4 +1,4 @@
-# Echo Connect
+# KOR
 
 ## Problem
 
